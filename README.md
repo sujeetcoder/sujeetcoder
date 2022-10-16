@@ -35,7 +35,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1XXfPSaz_NJGaGiyQTq0w_aqqCco3TwM5/view?usp=sharing" >Resume</a>
       
-      - 💻 Know more about me <a href="https://sujeet.github.io" >Portfolio</a>  (under maintenance)
+      - 💻 Know more about me <a href="https://sujeetcoder.github.io" >Portfolio</a>  (under maintenance)
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
@@ -117,10 +117,8 @@ product-based company.
             </p>      
            <br/>
          <p align="center">
-          
               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-          
-      </p>                                                                                                                                              
+        </p>                                                                                                                                              
       
         <br/>
         <br/>
