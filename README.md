@@ -133,7 +133,7 @@ product-based company.
       <br/>
       <br/>
       
-      <a href="https://github.com/sujeetcoder/github-readme-activity-graph"><img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+      <img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
       
       <br/>
       <br/>
