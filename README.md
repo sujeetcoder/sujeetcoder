@@ -113,19 +113,19 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <a href="https://github.com/sujeetcoder/github-readme-stats"><img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
            <br/>
          <p align="center">
-          <a href="https://github.com/sujeetcoder/github-readme-streak-stats">
+          
               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-          </a>
+          
       </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <a href="https://github.com/sujeetcoder/github-readme-stats"><img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
+          <img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" />
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
