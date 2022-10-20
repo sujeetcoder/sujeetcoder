@@ -36,9 +36,9 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1XXfPSaz_NJGaGiyQTq0w_aqqCco3TwM5/view?usp=sharing" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1XXfPSaz_NJGaGiyQTq0w_aqqCco3TwM5/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://sujeetcoder.github.io" >Portfolio</a>  (under maintenance)
+      - 💻 Know more about me <a href="https://sujeetcoder.github.io" target="_blank"  >Portfolio</a>  (under maintenance)
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
