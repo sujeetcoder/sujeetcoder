@@ -23,7 +23,7 @@ product-based company.
       
 
  
-<p align="center"> <a href="https://github.com/sujeetcoder/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetcoder" alt="sujeetcoder" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sujeetcoder" alt="sujeetcoder" /> </p>
 </br>
 
   <div align="center">
