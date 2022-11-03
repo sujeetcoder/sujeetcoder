@@ -36,7 +36,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1XXfPSaz_NJGaGiyQTq0w_aqqCco3TwM5/view?usp=sharing" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1f7srg0f-D1FkOJAEHuZBpPid5K6fTe7q/view?usp=share_link" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://sujeetcoder.github.io" target="_blank"  >Portfolio</a>
       
@@ -50,7 +50,14 @@ product-based company.
       
       <h2 align="center">📱 Connect with me</h2>
       <br />
+     <div align="center" >
+
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="html5">
+     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="html5">
+     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="html5">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5">
      
+     </div>
       
       <hr />
       
