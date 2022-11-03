@@ -128,17 +128,17 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="ShravaniMishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="sujeetcoder Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
            <br/>
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShravaniMishra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sujeetcoder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
         </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" />
+          <img alt="sujeetcoder Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
@@ -146,7 +146,7 @@ product-based company.
       <br/>
       <br/>
       
-     <p> <img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
+     <p> <img alt="sujeetcoder Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
       
       <br/>
       <br/>
