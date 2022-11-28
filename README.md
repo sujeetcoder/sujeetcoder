@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
       
       
@@ -26,9 +26,7 @@ product-based company.
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sujeetcoder" alt="sujeetcoder" /> </p>
 </br>
 
-  <div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="40%"/>
-      </div>
+  
       
    ## 🙋‍♂️ About Me
       
