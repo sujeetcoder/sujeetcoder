@@ -35,7 +35,6 @@ product-based company.
    - 🌱 I’m currently learning at Masai
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1mAXvUM_FT60NaGoP8ERlny-sripoR6Eu/view?usp=share_link" target="_blank" >Resume</a>
-      - first you visit on [homepage](https://delightful-dango-efae26.netlify.app/)
       
       - 💻 Know more about me <a href="https://sujeetcoder.github.io" target="_blank"  >Portfolio</a>
       
