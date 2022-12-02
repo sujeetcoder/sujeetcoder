@@ -6,7 +6,7 @@
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetcoder&label=Profile%20views&color=9130c2&style=flat" alt="sujeet kumar" /> </p>
       
-   <h3 align="center">Analytical and detail-oriented aspiring
+   <h3 align="center">An analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
 writing production-ready code using
 MERN stack. Passionate about coding
@@ -14,7 +14,7 @@ and intensely interested in working in a
 product-based company.
 </h3>
       
-   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+   
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
