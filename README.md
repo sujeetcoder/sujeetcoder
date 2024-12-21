@@ -1,8 +1,8 @@
 
-<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="javascript" width="100%" height="350"/>
       
       
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sujeet Kumar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sujeet Kumar <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32"/></h1>
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetcoder&label=Profile%20views&color=9130c2&style=flat" alt="sujeet kumar" /> </p>
       
@@ -29,9 +29,9 @@ product-based company.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
+   - 🔭 I’m a Full Stack Web Developer
       
-   - 🌱 I’m currently learning at Masai
+   - 🌱 MERN Stack master
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1mAXvUM_FT60NaGoP8ERlny-sripoR6Eu/view?usp=share_link" target="_blank" >Resume</a>
       
