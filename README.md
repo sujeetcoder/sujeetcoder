@@ -6,14 +6,14 @@
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetcoder&label=Profile%20views&color=9130c2&style=flat" alt="sujeet kumar" /> </p>
       
-   <h3 align="center">AI am the Co-Founder & CTO at PLYM, where I lead the complete technology vision, architecture, and product engineering strategy. My focus is on building scalable digital systems, optimizing performance, and delivering high-quality tech solutions that support business growth and user experience. With strong expertise in full-stack development (MERN), cloud infrastructure, DevOps, and product lifecycle management, I convert ideas into secure, efficient, and future-ready applications. I am committed to innovation, technical excellence, and building impactful technology that moves PLYM forward.
+   <h3 align="center">I am the Co-Founder & CTO at PLYM, where I lead the complete technology vision, architecture, and product engineering strategy. My focus is on building scalable digital systems, optimizing performance, and delivering high-quality tech solutions that support business growth and user experience. With strong expertise in full-stack development (MERN), cloud infrastructure, DevOps, and product lifecycle management, I convert ideas into secure, efficient, and future-ready applications. I am committed to innovation, technical excellence, and building impactful technology that moves PLYM forward.
 </h3>
       
    
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sujeet Kumar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sujeet Kumar 🏽; I am a Full-stack%20web%20developer 🏻‍💻 and Co-founder & CTO of PLYM; interested in Coding and business development 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 
@@ -25,7 +25,7 @@
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m a Full Stack Web Developer
+   - 🔭 I’m a Full Stack Web Developer and Co-founder & CTO of PLYM
       
    - 🌱 MERN Stack master
       
