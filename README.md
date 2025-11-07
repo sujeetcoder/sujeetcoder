@@ -11,9 +11,8 @@
       
    
       
-   <p align="center" color:"red">
-     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sujeet Kumar 🏽; I am a Full-stack%20web%20developer 🏻‍💻 and Co-founder & CTO of PLYM; interested in Coding and business development 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+   <p width="100%" align="center" color:"red">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F761&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Sujeet+Kumar.+;A+MERN+Dev+and+Co-founder+%26+CTO+of+PLYM.+;Intrested+in+coding+and+business+development.+" alt="Typing SVG" /></a>
       </p>
       
 
